@@ -12,7 +12,7 @@ Perplex is a multipurpose Discord Bot, with features like a captcha system, join
 
 1. Start cloning the repository and installing the dependencies.
 ```bash
-git clone https://github.com/gokiimax/Perplex-Bot.git
+git clone https://github.com/GDMgmer3992/Trollhex-s-Bot.git
 cd Perplex-Bot
 npm install
 ```
@@ -44,7 +44,7 @@ npm run start
 You are welcome to contribute by submitting a Pull Request to the repository.
 
 ## Author
-[gokimax](https://github.com/gokiimax)
+[gokimax (Creator)](https://github.com/gokiimax) [GDMgmer3992 (Editor)](https://github.com/GDMgmer3992)
 
 ## ☕️ Support & Socials
 My Bot is open source and free to use. If you found any of my repos useful and would like to support my projects, feel free to donate to my bitcoin address.
