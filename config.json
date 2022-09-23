@@ -1,0 +1,8 @@
+{
+    "token": "MTAyMDY0NDY0ODc2MDM4OTcwMg.GjksTs.v3rWc7DZSJjALqAI7l_TpL7HEVccKmWKrabMeA",
+    "developerGuild": "1004272707749294100",
+    "activityInterval": 5,
+    "botMainColor": "0xff5454",
+    "botErrorColor": "0xdb3535",
+    "database": "mongodb+srv://passwordisreplitbot:replitbot@cluster0.kaobsmu.mongodb.net/?retryWrites=true&w=majority"
+}
