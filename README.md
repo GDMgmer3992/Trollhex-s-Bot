@@ -1,6 +1,6 @@
 # Perplex-Bot
 Perplex is a multipurpose Discord Bot, with features like a captcha system, join-to-create system and much more
-- Released: 28.07.2022
+- Released: 28.07.2022 Edit: 23.9.2022
 - [💌 Invite the bot](https://discord.com/api/oauth2/authorize?client_id=1009480009821474936&permissions=8&scope=bot%20applications.commands)
 <p align="center">
 	<a href="https://discord.gg/yVWygKS3Xn">
