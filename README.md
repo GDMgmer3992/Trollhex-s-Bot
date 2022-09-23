@@ -13,7 +13,7 @@ Perplex is a multipurpose Discord Bot, with features like a captcha system, join
 1. Start cloning the repository and installing the dependencies.
 ```bash
 git clone https://github.com/GDMgmer3992/Trollhex-s-Bot.git
-cd Perplex-Bot
+cd Trollhex-s-Bot
 npm install
 ```
 2. Make sure you installed [ffmpeg](https://ffmpeg.org/) (for the music system)
@@ -32,7 +32,7 @@ npm install
 ```
 5. If you finished to configurate, you can start the bot
 ```bash
-npm run start
+npm start
 ```
 
 ## Checklist
